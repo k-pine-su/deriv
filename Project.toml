@@ -3,9 +3,6 @@ uuid = "a25b899e-1528-471f-868f-109c3f39dcf5"
 authors = ["Kaker <kkr111927223519@gmail.com>"]
 version = "0.1.0"
 
-[compat]
-Plots = "1.40.13"
-
 [extras]
 Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
 
